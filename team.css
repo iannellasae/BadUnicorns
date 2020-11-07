@@ -1,0 +1,20 @@
+body {margin: 0;}
+.unicornMembers {
+    text-align: center;
+    margin-top: 100px;
+    background-color: lightgray;
+    padding: 0 0 0 50px;
+    border-radius: 10px;
+    height: 500px;
+}
+.unicornMembers ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px 0 0 0;
+    line-height: 30px;
+}
+.groupName {
+    background-color: darkgray;
+    border-radius: 10px 10px 0 0;
+    padding: 20px;
+}
