@@ -1,21 +1,25 @@
 body {margin: 0;}
 .unicornMembers {
     text-align: center;
-    margin-top: 100px;
-    background-color: lightgray;
+    margin-top: 80px;
     padding: 0 0 0 50px;
     border-radius: 10px;
     height: 500px;
+    background-image: linear-gradient(to bottom right, #007bff, #dc3545);
+}
+.unicornMembers ul li{
+    list-style-type: none;
+    margin: 40px 0 0 0;
+    width: 100%;
+    padding: 0 50px 0 50px;
 }
 .unicornMembers ul {
-    list-style-type: none;
     padding: 0;
-    margin: 20px 0 0 0;
-    line-height: 30px;
 }
 .groupName {
-    background-color: darkgray;
     border-radius: 10px 10px 0 0;
     padding: 20px;
 }
-/*sample comment another comment desktop gui using gitkraken GUI*/
+button {
+    width: 100%;
+}
