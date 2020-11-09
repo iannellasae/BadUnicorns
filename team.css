@@ -2,14 +2,14 @@ body {margin: 0;}
 .unicornMembers {
     text-align: center;
     margin-top: 80px;
-    padding: 0 0 0 50px;
+    padding: 50px 0 0 0;
     border-radius: 10px;
     height: 500px;
     background-image: linear-gradient(to bottom right, #007bff, #dc3545);
 }
 .unicornMembers ul li{
     list-style-type: none;
-    margin: 40px 0 0 0;
+    margin: 30px 0 0 0;
     width: 100%;
     padding: 0 50px 0 50px;
 }
