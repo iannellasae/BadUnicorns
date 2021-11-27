@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-27T15:29:41.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="l0hPr7G8lUPAvDyt5Yxd" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-27T15:30:52.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="GsBktJ7seuce-YS-IUfx" version="15.7.3" type="github">
   <diagram id="kYLwCeYcSiuk6Xbp6gfd" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,9 +75,6 @@
             <mxPoint x="360" y="710" as="sourcePoint" />
             <mxPoint x="560" y="585" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="G7vNpuyKj4q_0Ms4Cx_C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.713;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="H3Uqo2YZKPivDgBR3LTh-4" target="H3Uqo2YZKPivDgBR3LTh-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
